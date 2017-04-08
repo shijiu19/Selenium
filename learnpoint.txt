@@ -1,5 +1,7 @@
 复习：
-123
+https://github.com/shijiu19/Selenium.git
+git@github.com:shijiu19/Selenium.git
+
 测试用例
 1、定义：由测试人员在测试执行之前进行编写
 测试用例的方法：等价类划分法（重点）
